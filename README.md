@@ -6,7 +6,7 @@ You may use this code and or its assets openly and commercially as long as you a
 
 # Endless Runner - Cube Ascension
 
-# Integrantes
+# Creator
 Nicolas Martin Rodriguez
 
 # Purpose
