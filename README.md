@@ -1,13 +1,14 @@
 # Endless_Runner_p5js
  Endless Runner created for p5js engine for my University Project
 
-# Use
+# Usage
 You may use this code and or its assets openly for educational or commercial projects as long as you attribute me in credits. 
 
 # Endless Runner - Cube Ascension
 
-# Creator
-Nicolas Martin Rodriguez
+# Developer
+Code: Nicolas Martin Rodriguez
+Music: Nicolas Martin Rodriguez
 
 # Purpose
 The purpose of this project is to develop an endless runner game with physics-based mechanics using the p5.js library. The game aims to provide an engaging experience where the player controls a character that can jump, glide, and change shape to avoid obstacles and enemies. The inclusion of bosses, projectiles, and increasing difficulty levels adds depth and challenge to the gameplay.
