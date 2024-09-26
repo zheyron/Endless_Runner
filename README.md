@@ -9,7 +9,7 @@ You may use this code and or its assets openly for educational or commercial pro
 # Developer
 * Code: Nicolas Martin Rodriguez
 * Music: Nicolas Martin Rodriguez
-* Background: downloaded background animation by CC0. You may not use this background asset on commercial projects as I was not the creator.
+* Background: downloaded background animation from a open ended library. You may not use this background asset on commercial projects as I was not the creator.
 
 # Purpose
 The purpose of this project is to develop an endless runner game with physics-based mechanics using the p5.js library. The game aims to provide an engaging experience where the player controls a character that can jump, glide, and change shape to avoid obstacles and enemies. The inclusion of bosses, projectiles, and increasing difficulty levels adds depth and challenge to the gameplay.
