@@ -2,7 +2,7 @@
  Endless Runner created for p5js engine for my University Project
 
 # Use
-You may use this code openly and commercially as long as you attribute me in credits. 
+You may use this code and or its assets openly and commercially as long as you attribute me in credits. 
 
 # Endless Runner - Cube Ascension
 
