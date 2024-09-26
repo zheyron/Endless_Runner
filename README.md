@@ -6,7 +6,7 @@ You may use this code and or its assets openly for educational or commercial pro
 
 # Endless Runner - Cube Ascension
 
-# Developer
+# Credits on Assets
 * Code: Nicolas Martin Rodriguez
 * Music: Nicolas Martin Rodriguez
 * Background: downloaded background animation from a open ended library. You may not use this background asset on commercial projects as I was not the creator.
